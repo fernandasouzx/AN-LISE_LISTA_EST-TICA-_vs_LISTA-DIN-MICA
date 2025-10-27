@@ -102,19 +102,19 @@ make lista_enc
 make lista_dupla_enc
 ```
 ---
-## Limpar Arquivos Compilados
-Para remover os executáveis e arquivos objeto gerados:
-
-```bash
-make clean
-```
----
 ## Execução dos Programas
 Após a compilação, execute os programas gerados:
 ```bash
 ./lista
 ./lista_enc
 ./lista_dupla_enc
+```
+---
+## Limpar Arquivos Compilados
+Para remover os executáveis e arquivos objeto gerados:
+
+```bash
+make clean
 ```
 ---
 
