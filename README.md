@@ -1,6 +1,4 @@
 # ANÁLISE DE LISTA ESTÁTICA X LISTA DINÂMICA
-
-## Universidade
 Universidade Federal de Mato Grosso – Campus do Araguaia  
 Instituto de Ciências Exatas e da Terra  
 Bacharelado em Ciência da Computação  
